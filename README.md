@@ -25,5 +25,5 @@
   * For additional help or questions about collaboration, please reach out to Chaselovern@gmail.com
   * Follow me on Github at [chaseLovern](http://github.com/chaseLovern)
 
-![Homework02SS](https://user-images.githubusercontent.com/82298315/116840395-e45ff180-ab92-11eb-91f5-e6f6e2effd5c.png)
+![Homework02SS](https://github.com/Chaselovern/AdvancedCSSHomework/blob/master/assets/Homework02SS.jpg)
 
